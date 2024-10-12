@@ -1,44 +1,9 @@
 {
   "keys": [
-    {
-      "key": "DYRRrCzpcIFn2RL5",
-      "hwid": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0-1536x864-1728711202616"
-    },
-    {
-      "key": "immHZnh26AV2TM0W",
-      "hwid": null
-    },
-    {
-      "key": "DTq3Zn9TKKWBWyhL",
-      "hwid": null
-    },
-    {
-      "key": "Kes3aMDoc0jkMqYW",
-      "hwid": null
-    },
-    {
-      "key": "qCnFL73MYVAHT0iW",
-      "hwid": null
-    },
-    {
-      "key": "xi9WXxJU75Xl25ca",
-      "hwid": null
-    },
-    {
-      "key": "UTU2NnTg5KW939SG",
-      "hwid": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0-1536x864-1728712182551"
-    },
-    {
-      "key": "2OMRAGalaNazdoCE",
-      "hwid": null
-    },
-    {
-      "key": "x64sgHuIM7o5oH9x",
-      "hwid": null
-    },
-    {
-      "key": "4K3wMmdNCc84Dn21",
-      "hwid": null
-    }
+    "abc123def456ghi789",
+    "jkl012mno345pqr678",
+    "stu901vwx234yz567",
+    "890abc123def456ghi",
+    "jkl789mno012pqr345"
   ]
 }

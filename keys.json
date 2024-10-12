@@ -1,22 +1,44 @@
-[
+{
+  "keys": [
     {
-        "key": "c1554594-ecc9-4c10-99ad-aa5db3cefc77",
-        "hwid": null
+      "key": "DYRRrCzpcIFn2RL5",
+      "hwid": null
     },
     {
-        "key": "0c7a4fb9-efb9-4dca-a013-47b66f7af883",
-        "hwid": null
+      "key": "immHZnh26AV2TM0W",
+      "hwid": null
     },
     {
-        "key": "fa23c6e4-1eb4-40c3-b81e-062a86e070d4",
-        "hwid": null
+      "key": "DTq3Zn9TKKWBWyhL",
+      "hwid": null
     },
     {
-        "key": "dfcbda1f-6de2-418b-ad01-3719c6a46e15",
-        "hwid": null
+      "key": "Kes3aMDoc0jkMqYW",
+      "hwid": null
     },
     {
-        "key": "0cb12377-5cec-4e5d-8e8d-bab382cfd326",
-        "hwid": null
+      "key": "qCnFL73MYVAHT0iW",
+      "hwid": null
+    },
+    {
+      "key": "xi9WXxJU75Xl25ca",
+      "hwid": null
+    },
+    {
+      "key": "UTU2NnTg5KW939SG",
+      "hwid": null
+    },
+    {
+      "key": "2OMRAGalaNazdoCE",
+      "hwid": null
+    },
+    {
+      "key": "x64sgHuIM7o5oH9x",
+      "hwid": null
+    },
+    {
+      "key": "4K3wMmdNCc84Dn21",
+      "hwid": null
     }
-]
+  ]
+}

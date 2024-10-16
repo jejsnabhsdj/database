@@ -121,7 +121,7 @@
   },
   "A08A7IYEBCVB9EEX": {
     "type": "lifetime",
-    "redeemed": false,
-    "hwid": null
+    "redeemed": true,
+    "hwid": "8568361c0761f135910d634adac02303"
   }
 }

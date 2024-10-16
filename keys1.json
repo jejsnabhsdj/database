@@ -1,8 +1,8 @@
 {
   "04IYQLGI4E6V5DDU": {
-    "hwid": null,
-    "redeemed": false,
-    "redeemed_date": null,
+    "hwid": "a7ee985f20c36a18a365258a3e7fa715",
+    "redeemed": true,
+    "redeemed_date": "2024-10-17T02:57:24.844388",
     "duration": "2 weeks",
     "lifetime": false
   },

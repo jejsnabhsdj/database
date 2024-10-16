@@ -123,5 +123,9 @@
     "type": "lifetime",
     "redeemed": false,
     "hwid": "1A0F9239-A1C4-11E8-8B14-A066100D852F"
+  },
+  "IK03MR66XYNULE4R": {
+    "hwid": null,
+    "redeemed": false
   }
 }
